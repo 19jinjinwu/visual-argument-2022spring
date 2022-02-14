@@ -16,7 +16,8 @@ Statements:
 
 |Assets| Source|
 |--------|--------|
-|Font| Font Squirrel or FontJoy|
+|Header Font| https://www.fontsquirrel.com/fonts/bebas-neue?q%5Bterm%5D=neue+&q%5Bsearch_check%5D=Y (Font Squirrel - Bebas Neue : CC)|
+|Caption Font| Georgia, Times New Roman, Grotesk (Font Squirrel / Google : CC)|
 |Trash bin w/ waste|https://unsplash.com/photos/-NWdVzv1dVo (Unsplash : CC)|
 |Mindfulness logo|https://thenounproject.com/icon/hungry-1729106/ (The Noun Project - corpus delicti|
 |Donate food logo|https://thenounproject.com/icon/food-donation-4297670/ (The Noun Project - Fran Couto)|
