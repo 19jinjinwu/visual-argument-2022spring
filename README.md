@@ -18,8 +18,12 @@ Statements:
 |--------|--------|
 |Header Font| https://www.fontsquirrel.com/fonts/bebas-neue?q%5Bterm%5D=neue+&q%5Bsearch_check%5D=Y (Font Squirrel - Bebas Neue : CC)|
 |Caption Font| Georgia, Times New Roman, Grotesk (Font Squirrel / Google : CC)|
-|Trash bin w/ waste|https://unsplash.com/photos/-NWdVzv1dVo (Unsplash : CC)|
 |Mindfulness logo|https://thenounproject.com/icon/hungry-1729106/ (The Noun Project - corpus delicti|
 |Donate food logo|https://thenounproject.com/icon/food-donation-4297670/ (The Noun Project - Fran Couto)|
 |Compost logo|https://thenounproject.com/icon/recycle-food-186234/ (The Noun Project - Yu luck)|
-|Background| Dark gradient/spotlight from Unsplash or self-created |
+|Background| https://unsplash.com/photos/qsVWEGNnIrM (Unsplash : CC : Katie Rodriguez) |
+|Pizza top| https://unsplash.com/photos/_0o2mUisUxE (Unsplash : CC : Fernando Andrade) |
+|Pizza cheese pull| https://unsplash.com/photos/uU0Anw-8Vsg (Unsplash : CC : Fatima Akram) |
+|Pizza steam| https://unsplash.com/photos/D3Mag4BKqns (Unsplash : CC : Pablo Pacheco) |
+
+
