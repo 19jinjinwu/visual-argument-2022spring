@@ -1,3 +1,8 @@
+
+# Introduction
+
+When was the last time you left food on your plate, at home, at school, or at work? When we take home leftovers, sometimes we forget about it. When we buy groceries, sometimes the food rots and it ends up in the trash. Whether we throw waste food on purpose or unintentionally, it does not only impact our environment, but also other humans. Many of us have the priviledge to have access to food, and choose the kind of food we want to eat. Especially since we have that priviledge, we should be more mindful of our food waste, compost our food, and turn to help others who cannot put food on their plates.
+
 # Proposal
 
 This visual argument is to bring awareness to food waste. I want to turn attention to our priviledges with our sources of food, and the lack of care we have when we toss leftovers and rotten food in the trash. While environmental issues are a serious problem, I feel like focusing on our impact on _other humans_ will make viewers feel more empathetic and that they have power to _help others_.
@@ -13,17 +18,17 @@ Statements:
 "12 percent of American households are food insecure"
 
 
-
-|Assets| Source|
-|--------|--------|
-|Header Font| https://www.fontsquirrel.com/fonts/bebas-neue?q%5Bterm%5D=neue+&q%5Bsearch_check%5D=Y (Font Squirrel - Bebas Neue : CC)|
-|Caption Font| Georgia, Times New Roman, Grotesk (Font Squirrel / Google : CC)|
-|Mindfulness logo|https://thenounproject.com/icon/hungry-1729106/ (The Noun Project - corpus delicti|
-|Donate food logo|https://thenounproject.com/icon/food-donation-4297670/ (The Noun Project - Fran Couto)|
-|Compost logo|https://thenounproject.com/icon/recycle-food-186234/ (The Noun Project - Yu luck)|
-|Background| https://unsplash.com/photos/qsVWEGNnIrM (Unsplash : CC : Katie Rodriguez) |
-|Pizza top| https://unsplash.com/photos/_0o2mUisUxE (Unsplash : CC : Fernando Andrade) |
-|Pizza cheese pull| https://unsplash.com/photos/uU0Anw-8Vsg (Unsplash : CC : Fatima Akram) |
-|Pizza steam| https://unsplash.com/photos/D3Mag4BKqns (Unsplash : CC : Pablo Pacheco) |
+# Credits
+|Assets| Source| License |
+|--------|--------|--------|
+|Header Font: Bebas Neue | https://fonts.google.com/specimen/Bebas+Neue|CC 0|
+|Caption Font: Antonio | https://fonts.google.com/specimen/Antonio|CC 0|
+|Mindfulness logo| https://thenounproject.com/icon/hungry-1729106/ |CC BY 3.0 US: corpus delicti|
+|Donate food logo| https://thenounproject.com/icon/food-donation-4297670/ |CC BY 3.0 US: Fran Couto|
+|Compost logo| https://thenounproject.com/icon/recycle-food-186234/ |CC BY 3.0 US: Yu luck|
+|Background| https://unsplash.com/photos/qsVWEGNnIrM |CC 0: Katie Rodriguez|
+|Pizza top| https://unsplash.com/photos/_0o2mUisUxE |CC 0: Fernando Andrade|
+|Pizza cheese pull| https://unsplash.com/photos/uU0Anw-8Vsg |CC 0: Fatima Akram|
+|Pizza steam| https://unsplash.com/photos/D3Mag4BKqns |CC 0: Pablo Pacheco|
 
 
