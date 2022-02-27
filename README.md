@@ -27,8 +27,7 @@ Statements:
 |Donate food logo| https://thenounproject.com/icon/food-donation-4297670/ |CC BY 3.0 US: Fran Couto|
 |Compost logo| https://thenounproject.com/icon/recycle-food-186234/ |CC BY 3.0 US: Yu luck|
 |Background| https://unsplash.com/photos/qsVWEGNnIrM |CC 0: Katie Rodriguez|
-|Pizza top| https://unsplash.com/photos/_0o2mUisUxE |CC 0: Fernando Andrade|
+|Pizza slice| https://unsplash.com/photos/_0o2mUisUxE |CC 0: Fernando Andrade|
 |Pizza cheese pull| https://unsplash.com/photos/uU0Anw-8Vsg |CC 0: Fatima Akram|
-|Pizza steam| https://unsplash.com/photos/D3Mag4BKqns |CC 0: Pablo Pacheco|
 
 
